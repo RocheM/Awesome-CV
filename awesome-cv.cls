@@ -88,6 +88,9 @@
   pdfsubject={},
   pdfkeywords={}
 }
+%Used to format Skills into multi columns
+\RequirePackage{multicol}
+
 
 
 %-------------------------------------------------------------------------------
